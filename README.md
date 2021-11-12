@@ -4,9 +4,13 @@ One is popularity based. The secon one is based on similarity of the user, e.g. 
 
 # Technologies
 pandas 1.3.3
+
 matplotlib 3.4.2
+
 seaborn 0.11.2
+
 sklearn 0.24.2
+
 numpy 1.21.4
 
 # Data
