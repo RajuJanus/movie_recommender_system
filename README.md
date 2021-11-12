@@ -15,7 +15,8 @@ numpy 1.21.4
 
 # Steps
 A. Popularity based recommendation
-we group the ratings by movie Id and sort them in descending order to get top 5 popular movies e.g. the movies most of the users rated.
+we group the ratings by movie Id and sort them in descending order to get top 10 popular movies e.g. the movies most of the users rated.
+
 B. Similarity based reccomendation: cosine similarity
 
 1. Building a Recommender function from scratch (Iteration 1): imputing NaN's with 0, Cosine similarity matrix
