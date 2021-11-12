@@ -13,6 +13,14 @@ sklearn 0.24.2
 
 numpy 1.21.4
 
+# Steps
+A. Popularity based recommendation
+we group the ratings by movie Id and sort them in descending order to get top 5 popular movies e.g. the movies most of the users rated.
+B. Similarity based reccomendation: cosine similarity
+
+1. Building a Recommender function from scratch (Iteration 1): imputing NaN's with 0, Cosine similarity matrix
+2. Make a train-test split of the data and do the same (Iteration 2)
+
 # Data
 This dataset describes 5-star rating and free-text tagging activity from [MovieLens](http://movielens.org), a movie recommendation service. It contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018. This dataset was generated on September 26, 2018.
 
