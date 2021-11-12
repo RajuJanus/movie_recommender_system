@@ -1,6 +1,6 @@
 # Movie_recommender_system
-In this file two movie recommendation systems are developed based on datasets provided by MovieLense
-One is popularity based. The secon one is based on similarity of the user, e.g. the users who likes similiar movies their rating is priritized.
+In this file two movie recommendation systems are developed based on datasets provided by MovieLense.
+One is popularity based. The second one is based on similarity among the user tastes, e.g. the users who likes similiar movies.
 
 # Technologies
 pandas 1.3.3
